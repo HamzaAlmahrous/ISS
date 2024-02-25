@@ -47,4 +47,4 @@ Note: enter: - (1) to create tables in the first time - (2) to view tables
 Note: in new terminal
 
 ## Contributing
-Contributions to improve the app are welcome. Please fork the repository and submit a pull request with your changes.
+Contributions to improve the app are welcome. Please fork the repository and submit a pull request with your changes.  
