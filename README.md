@@ -50,3 +50,4 @@ Note: in new terminal
 
 ## Contributing
 Contributions to improve the app are welcome. Please fork the repository and submit a pull request with your changes.  
+
