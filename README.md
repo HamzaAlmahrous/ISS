@@ -23,7 +23,7 @@ this overview
    ```
    run python .\initialize_database.py
    ```
-note: enter: - (1) to create tables in the first time - (2) to view tables
+Note: enter: - (1) to create tables in the first time - (2) to view tables
 
 5. (optional) regenerate ca keys:
    ```
